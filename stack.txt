@@ -1,0 +1,4 @@
+react, vite , html ,css, mongoDB, javaScript ,express.js
+
+mongodb , songs id = 67b5a26d1452d76fff83c67d
+ password db = KFyFHIPmo80IvV5m
