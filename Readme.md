@@ -29,6 +29,7 @@ Bem-vindo ao **Melodia Frontend**! Este repositório contém o código do fronte
 
 ## Tecnologias Utilizadas
 
+
 - **Frontend**:
   - React
   - Vite
